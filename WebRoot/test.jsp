@@ -23,6 +23,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    我要修改啦<br> 裁剪功能测试
+    
   </body>
 </html>
