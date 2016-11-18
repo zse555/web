@@ -21,8 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    我的网页<br>
-    zse2添加的数据<br>
     新添加数据
   </body>
 </html>
